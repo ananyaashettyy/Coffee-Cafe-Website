@@ -13,4 +13,5 @@ Check out the website here: [Coffee Cafe Website](https://ananyaashettyy.github.
 
 ## Getting Started
 git clone https://github.com/ananyaashettyy/Coffee-Cafe-Website.git
+
 cd Coffee-Cafe-Website
